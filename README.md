@@ -10,3 +10,5 @@
 5.[ASSIGNMENT -5](https://github.com/Rithin353/AIML_BATCH-19/blob/main/ASSIGNMENT_5_AIML.ipynb)
 
 5.[ASSIGNMENT -6](https://github.com/Rithin353/AIML_BATCH-19/blob/main/ASSIGNMENT_6_AIML.ipynb)
+
+6.[ASSIGNMENT -7](https://github.com/Rithin353/AIML_BATCH-19/blob/main/ASSIGNMENT_7_SVM.ipynb)
