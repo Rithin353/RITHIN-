@@ -12,3 +12,5 @@
 6.[ASSIGNMENT -6](https://github.com/Rithin353/AIML_BATCH-19/blob/main/ASSIGNMENT_6_AIML.ipynb)
 
 7.[ASSIGNMENT -7](https://github.com/Rithin353/AIML_BATCH-19/blob/main/ASSIGNMENT_7_SVM.ipynb)
+
+8.[ASSIGNMENT -8](https://github.com/Rithin353/AIML_BATCH-19/blob/main/ASSIGNMENT_8_Decision_Tree.ipynb)
