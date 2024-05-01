@@ -18,3 +18,5 @@
 9.[ASSIGNMENT -9](https://github.com/Rithin353/AIML_BATCH-19/blob/main/ASSIGNMENT_9_RF_Classification.ipynb)
 
 10 .[ASSIGNMENT -10](https://github.com/Rithin353/AIML_BATCH-19/blob/main/ASSIGNMENT_10_.ipynb)
+
+11. [AIML - PROJECT ](https://github.com/Rithin353/AIML_BATCH-19/blob/main/Copy_of_AIML_Project.ipynb)
