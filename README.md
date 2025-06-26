@@ -12,7 +12,7 @@
 
 1.[ AWS Academy Cloud Foundations ](https://www.linkedin.com/posts/rithin-goud-2961762b7_i-am-thrilled-to-have-completed-the-aws-academy-activity-7261589174841954304-DYkg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwFXRIBa-uJEMlLyVZDHgjFbrt7puD8XV4)
 
-2.[ Introduction to Artificial Intelligence (AI)  ]([https://github.com/Rithin353/RITHIN-/blob/main/Research_Paper.pdf](https://www.linkedin.com/posts/rithin-goud-2961762b7_im-happy-to-share-that-ive-obtained-a-new-activity-7188345920160202752-yR2A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwFXRIBa-uJEMlLyVZDHgjFbrt7puD8XV4))
+2.[ Introduction to Artificial Intelligence (AI)  ](https://www.linkedin.com/posts/rithin-goud-2961762b7_im-happy-to-share-that-ive-obtained-a-new-activity-7188345920160202752-yR2A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwFXRIBa-uJEMlLyVZDHgjFbrt7puD8XV4)
 
 3.[Computer Networking ](https://www.linkedin.com/posts/rithin-goud-2961762b7_completion-certificate-for-computer-networking-activity-7188343690061320192-0Lt9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwFXRIBa-uJEMlLyVZDHgjFbrt7puD8XV4)
 
