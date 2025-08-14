@@ -7,6 +7,7 @@
 
 4.[ Infosys ](https://github.com/Rithin353/RITHIN-/blob/main/Infosys%202025-04-03%20191124.png)
 
+5.[ PROJECT  Poem Sentiment Classification ](https://github.com/Rithin353/RITHIN-/blob/main/PROJECT%20%20Poem%20Sentiment%20Classification.pdf)
 
 # CERTIFICATION :-
 
